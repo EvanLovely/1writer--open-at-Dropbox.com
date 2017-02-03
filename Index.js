@@ -1,7 +1,7 @@
 'use strict';
 // Options
 const openInApp = false;
-const debug = true;
+const debug = false;
 // End Options
 
 const folder = editor.getFolderPath().replace('/Dropbox', '');
